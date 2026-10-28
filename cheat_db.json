@@ -1,0 +1,75 @@
+{
+  "_comment": "База читов/спуферов/площадок для Rust PC Checker. Можно пополнять без правки кода — просто добавляй строки в нужный список и сохраняй файл в UTF-8. Все сравнения регистронезависимы.",
+  "_updated": "2026-10-18 09:48",
+  "_note_marketplaces": "funpay.com, lzt.market, plati.market и подобные биржи торгуют ЧЕМ УГОДНО (игровые валюты, Steam-ключи, аккаунты десятков игр, Minecraft-конфиги и т.д.), а не только читами. Заносить их ЦЕЛИКОМ в cheat_site_domains нельзя — это сметает в отчёт всю активность человека на площадке (переписки, токены входа, заказы, личные данные), как и получилось в реальном отчёте. Для них указывай ТОЛЬКО конкретные разделы/лоты в cheat_site_url_fragments.",
+
+  "cheat_names": [
+    "cheat", "hack", "loader", "bypass", "inject", "injector", "rustme",
+    "umbrella", "skinchanger", "macro", "recoil", "no recoil", "norecoil",
+    "softaim", "soft aim", "макрос", "чит", "софт", "читы", "вх", "эймбот",
+    "mrpro cis", "mr pro", "stealth full", "stealth lite",
+    "xernel", "xernel spoofer", "ancient v2",
+    "mason rust full", "mason rust internal", "mason lite",
+    "onehit", "cyber", "courier full", "courierscript",
+    "radiance external", "udp loader",
+    "smg chams", "smg cheat", "memez external", "memez internalx", "memez lite",
+    "memezmax", "memez norecoil macro", "memez", "btg cheat", "rampart full",
+    "kiero", "wintorez", "doza full", "doza lite",
+    "vengeance", "vengeance lite", "vengeance full", "kali rust",
+    "disconnect internal", "interiumware", "omega cheat", "unticvare web radar",
+    "pussycat cheat", "fluent rust", "neural.cc", "getadd-ons full", "agrotek",
+    "enigma cheat", "enot hook", "bleak cheat", "goyda", "titanix",
+    "wr private", "superiority v2", "cyb cheat", "muco cheat", "rubin cheat",
+    "fsociety cheat", "vilonity", "axios cheat", "exodus cheat", "nullwave",
+    "neddly.cc", "sxsoldier", "rust tweaker", "rustsentinel", "rust helper pro",
+    "rust helper full", "rust++", "battlemetrics premium", "enardo recycler",
+    "rustadmin leak", "nexus rust+", "aimbot", "wallhack", "esp hack",
+    "triggerbot", "silentaim", "ragebot", "legitbot", "backtrack cheat",
+    "antiaim", "resolver cheat", "fakelag", "wh+aim", "radar hack",
+    "thunder cheat", "zenith rust", "phantom overlay", "overlay cheat",
+    "colorbot", "chams", "no recoil script", "spinbot"
+  ],
+
+  "hwid_spoofer_names": [
+    "pink panther perm swoofer", "pink perm swf", "pink perm swoofer",
+    "ub.gg hwid", "hwid swoofer", "permanent hwid swoofer",
+    "sync замена hwid", "matrix internal", "goyda hwid", "titanix swoofer",
+    "neddly.cc swoofer", "nullwave swoofer", "sxsoldier swoofer",
+    "m-rust swoofer", "perm hwid woofer", "temp hwid woofer", "smg hwid",
+    "verse hwid", "hwid-changer xernel", "hwid spoofer", "hwid changer",
+    "disk serial changer", "smbios modifier", "motherboard spoofer",
+    "driver spoofer", "mac spoofer", "volume id changer", "tpm spoofer"
+  ],
+
+  "cheat_site_domains": [
+    "gfuel.cc", "unknowncheats.me", "unknowncheats.com",
+    "rustcheats.net", "rustcheats.com", "rustycheats.com",
+    "battlelog.cc", "rust-cheat.net",
+    "privatecheatz.com", "elitepvpers.com", "wearedevs.net",
+
+    "getcheats.io", "wh-satano.ru", "couriershop.ru", "elitehacks.ru",
+    "ggcheats.shop", "etherealware.com", "masonhacks.xyz", "gamebreaker.ru",
+    "gillzy-store.com", "arayas-cheats.com", "hackslab.ru", "up-game.pro",
+    "rustcheat.ru", "cheat.bz", "ownhacks.com", "domination-cheats.com",
+    "magic-cheat.com", "procheat.pro", "cheatseller.ru", "cheatrise.com",
+    "leet-cheats.ru", "uc.zone", "phoenix-hack.ru", "exloader.net",
+    "axios-macro.com", "keyran.net", "kvt-macro.ru", "vilonity.com",
+    "sevenhelpers.com", "madelka63.ru"
+  ],
+
+  "cheat_site_url_fragments": [
+    "funpay.com/lots/1199/", "funpay.com/lots/1200/", "funpay.com/lots/746/",
+    "funpay.com/chips/141/", "funpay.com/lots/888/",
+    "funpay.com/lots/250/", "funpay.com/lots/252/",
+
+    "lzt.market/rust",
+
+    "yougame.biz/tags/chity-rast",
+    "blast.hk/tags/chity-na-rast",
+    "habr.com/ru/articles/1095530"
+  ],
+
+  "dlc_keywords": [
+    "dlc", "add-on", "addon", "дополнение"
+  ]
+}
